@@ -98,7 +98,7 @@ let randomX1 = getRandomPosition(50, window_width);
 let randomY1 = getRandomPosition(50, window_height);
 let randomX2 = getRandomPosition(50, window_width);
 let randomY2 = getRandomPosition(50, window_height);
-
+//test
 // Radio aleatorio asegurando que no sea demasiado pequeño o grande
 let randomRadius = Math.floor(Math.random() * 50 + 30);
 
